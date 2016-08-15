@@ -1,0 +1,1 @@
+json.(post, :id, :title, :short, :created_at)
